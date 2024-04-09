@@ -21,7 +21,7 @@ Here's some intresting facts about me!
 > "Yesterday is history, Tomorrow is a mystery but today is a gift that is why it is called a present"
 >
 >  -Master Oogway, Kung Fu Panda
-- I love travelling and want to exlore US more as it is my first time here. I have travelled to a lot of places outside. 
+- I love travelling and want to exlore US more as it is my first time here, But I have travelled to a lot of places outside the US
 
 
 My top favorite destinations I have been to are: 
