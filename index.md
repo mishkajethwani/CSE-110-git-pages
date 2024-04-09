@@ -56,9 +56,9 @@ You can see the README files for the following branches,
 
 [main](README.md)
 
-[add-read-me](add-read-me/README.md)
+[add-read-me](../add-read-me/README.md)
 
-[new-branch](new-branch/README.md)
+[new-branch](../new-branch/README.md)
 
 
 
