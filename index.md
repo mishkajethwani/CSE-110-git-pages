@@ -36,9 +36,9 @@ My US Bucket List is:
 
 #### Technical Skills
 - Languages: Python, Java, C, C++, JavaScript, HTML, CSS
-- Frameworks: Django, Express, Node.js, Next.js 13, React, Tailwind CSS, Convex Developer Tools: Jupyter Notebooks, Git, Vim, MATLAB
-- Libraries: OpenCV, Numpy, Pandas, Pytorch, Tensorflow
-- 
+- Frameworks: Django, Express, Node.js, Next.js 13, React, Tailwind CSS, Convex Developer
+- Tools: Jupyter Notebooks, Git, Vim, MATLAB
+- Libraries: OpenCV, Numpy, Pandas, Pytorch, Tensorflow, Keras
 If you would like to know more about me. Heres my [LinkedIn](https://www.linkedin.com/in/mishka-jethwani-791246282/)
 
 #### Lab
