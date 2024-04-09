@@ -52,7 +52,7 @@ Here is what I worked on in this Lab:
 <img src="4.png">
 
 You can see the README files for the following branches, 
-[main](main/README.md)
+[main](README.md)
 
 add-read-me
 
