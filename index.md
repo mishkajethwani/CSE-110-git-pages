@@ -43,6 +43,20 @@ If you would like to know more about me. Heres my [LinkedIn](https://www.linkedi
 
 #### Lab
 Here is what I worked on in this Lab: 
+<img src="1.png">
+
+<img src="2.png">
+
+<img src="3.png">
+
+<img src="4.png">
+
+You can see the README files for the following branches, 
+[main](main/README.md)
+
+add-read-me
+
+new-branch
 
 
 
